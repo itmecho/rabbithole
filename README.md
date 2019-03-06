@@ -1,5 +1,8 @@
 # Rabbit Hole
 
+[![Build Status](https://travis-ci.org/itmecho/rabbithole.svg?branch=master)](https://travis-ci.org/itmecho/rabbithole)
+[![Go Report Card](https://goreportcard.com/badge/github.com/itmecho/rabbithole)](https://goreportcard.com/report/github.com/itmecho/rabbithole)
+
 Rabbithole is a simple program for load testing RabbitMQ. It allows you to send a custom number of messages of a configurable size to a queue.
 
 ## Installation
